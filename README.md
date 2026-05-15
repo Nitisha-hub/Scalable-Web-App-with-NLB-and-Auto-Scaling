@@ -135,12 +135,12 @@ Traffic will be routed automatically between EC2 instances.
 ---
 
 ## 🌐 Output 1
-<img width="100%" alt="Output 1" src="screenshots/output_1.png">
+<img width="100%" alt="Output 1" src="screenshots/Output_1.png">
 
 ---
 
 ## 🌐 Output 2
-<img width="100%" alt="Output 2" src="screenshots/output_2.png">
+<img width="100%" alt="Output 2" src="screenshots/Output_2.png">
 
 ---
 
